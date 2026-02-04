@@ -1,4 +1,5 @@
 venv/
 __pycache__/
 *.pyc
-data/
+data/times_headlines.csv
+data/times_articles.csv
