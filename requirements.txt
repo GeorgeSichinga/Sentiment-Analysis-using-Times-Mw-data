@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+textblob
+altair
+selenium
+webdriver-manager
